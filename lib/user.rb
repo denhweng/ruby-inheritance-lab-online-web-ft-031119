@@ -6,4 +6,7 @@ class User
     @last_name = last_name 
     @knowledge = []
   end 
+  
+  def learn 
+  end 
 end
